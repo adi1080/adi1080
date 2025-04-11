@@ -1,13 +1,6 @@
 Hi there 👋, I'm Aditya!
 I'm a third-year student currently pursuing a degree in Btech/CSE. My journey so far has been fueled by a deep curiosity for technology and a constant drive to improve myself, both personally and professionally.
 
-🚀 Tech Stack & Interests
-Java: From building small projects to understanding complex systems, Java has been my go-to language. I'm especially drawn to backend development and object-oriented design.
-
-Spring Boot: I’ve been exploring Spring Boot for creating scalable and efficient backend applications. I enjoy building RESTful services and learning how Spring Boot simplifies microservices architecture.
-
-Angular: Front-end development is a challenge I love! With Angular, I’ve been building interactive web applications and improving my understanding of TypeScript, RxJS, and component-based architecture.
-
 💡 Always Learning
 I believe that learning is a never-ending journey, and I'm passionate about gaining new knowledge every day.I always try to expand my understanding of tech and development best practices.
 
